@@ -3,10 +3,6 @@
 <!--
 **himj131/himj131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=himj131&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=himj131&langs_count=5&theme=tokyonight)]()
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=himj131&count_private=true&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=himj131&langs_count=5)]()
